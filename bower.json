@@ -1,0 +1,28 @@
+{
+  "name": "jquery.currency",
+  "description": "Quick and dirty currency formatter.",
+  "keywords": [
+    "currency",
+    "currency formatting",
+    "jquery currency"
+  ],
+  "homepage": "https://github.com/torann/jquery.currency",
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "main": "jquery.currency.js",
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    "bower_components",
+    "tests"
+  ],
+  "version": "1.0.0",
+  "authors": [
+    "Daniel Stainback <torann@gmail.com>"
+  ],
+  "license": "Apache-2.0"
+}
